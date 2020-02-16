@@ -33,10 +33,10 @@ When "Enable Desktop Notifications" is disabled, all desktop popup notifications
 When "Enabled Unread Message Badge" is enabled, you will see this indicator when you have unread messages:
 
 | System | Icon |
-| --- |: --- :|
+| --- | :-: |
 | Windows taskbar icon | ![Windows taskbar unread messages indicator](images/windows-unread_indicator-stable_54611.png) |
 | Windows tray icon | ![Windows tray unread messages indicator](images/windows-unread_tray_indicator-stable_54611.png) |
-| Chrome browser tab | ![Chrome unread messages indicator](image/chrome-unread_indicator-stable_54611.png) |
+| Chrome browser tab | ![Chrome unread messages indicator](images/chrome-unread_indicator-stable_54611.png) |
 
 If you have any @mentions, a number will appear in the red circle indicating how many, up to 9.
 
