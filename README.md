@@ -17,16 +17,12 @@ To access your settings on the browser and desktop versions, you'll find a gear 
 Under the **App Settings** section, click **Notifications**. There are four sections we will discuss individually.
 
 For desktop, you will see this:
-
-<div style="font-size: smaller">
   
 | ![Desktop global notifications settings - section 1](images/windows-global_section1-stable_54611.png) |
 | --- |
 | Enable Desktop Notifications - If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings. |
 | Enable Unread Message Badge - Shows a red badge on the app icon when you have unread messages. |
 | Enable Taskbar Flashing - Flashes the app in your taskbar when you have new notifications. |
-
-</div>
 
 When "Enable Desktop Notifications" is disabled, all desktop popup notifications are prevented. These notifications use the browser/OS-level notification system, showing a preview of the message and who sent it. When it's enabled, Discord will rely on the more specific notification settings to decide whether or not to send a notification.
 
@@ -51,16 +47,12 @@ To access your settings in the mobile version, first tap the three lines icon in
 Under the **App Settings** section, tap **Notifications**.
 
 For Android, you will see this:
-
-<div style="font-size: smaller">
   
 | ![Android global notifications settings](images/android-global-10.4.1.png) |
 | --- |
 | System notifications - Get notifications outside of Discord. |
 | In-app notifications - Get notifications within Discord. |
 | Tweak notification settings - Advanced notification settings are controlled by the system. |
-
-</div>
 
 TODO: descriptions
 
