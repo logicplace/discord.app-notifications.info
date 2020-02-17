@@ -54,11 +54,11 @@ The primary way to disable the notifications is to wait to receive one from Disc
 
 In order to re-enable notifications later (or disable them in a more complex way), in the search bar, search for `notifications` and select "Turn app notifications on or off" ![Windows 10 search result](images/windows10-notifications_search_entry.png) Under "Get notifications from these senders" (sorted alphabetically) there sould be an entry for Discord which you can toggle. ![Windows 10 notifications settings Discord entry](images/windows10-notification_settings_discord-stable_54611.png) If you click the entry (not the toggle bar), you'll end up at a screen for more detailed control of these settings, seen below.
 
-<table><tr><td>
+<table><tr><td markdown="1">
 
 ![Windows 10 notifications system - Discord settings](images/windows10-discord_notifications_settings-stable_54611.png)
 
-</td><td>
+</td><td markdown="1">
 
 ```none
 Notifications
