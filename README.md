@@ -17,12 +17,27 @@ To access your settings on the browser and desktop versions, you'll find a gear 
 Under the **App Settings** section, click **Notifications**. There are four sections we will discuss individually.
 
 For desktop, you will see this:
-  
-| ![Desktop global notifications settings - section 1](images/windows-global_section1-stable_54611.png) |
-| --- |
-| Enable Desktop Notifications - If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings. |
-| Enable Unread Message Badge - Shows a red badge on the app icon when you have unread messages. |
-| Enable Taskbar Flashing - Flashes the app in your taskbar when you have new notifications. |
+
+<table><tr><td markdown="1">
+
+![Desktop global notifications settings - section 1](images/windows-global_section1-stable_54611.png)
+
+</td><td markdown="1">
+
+```none
+NOTIFICATIONS
+
+Enable Desktop Notifications
+If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings.
+
+Enable Unread Message Badge
+Shows a red badge on the app icon when you have unread messages.
+
+Enable Taskbar Flashing
+Flashes the app in your taskbar when you have new notifications.
+```
+
+</td></tr></table>
 
 When "Enable Desktop Notifications" is disabled, all desktop popup notifications are prevented. These notifications use the browser/OS-level notification system, showing a preview of the message and who sent it. When it's enabled, Discord will rely on the more specific notification settings to decide whether or not to send a notification.
 
@@ -96,27 +111,51 @@ To access your settings in the mobile version, first tap the three lines icon in
 Under the **App Settings** section, tap **Notifications**.
 
 For Android, you will see this:
-  
-| ![Android global notifications settings](images/android-global-10.4.1.png) |
-| --- |
-| System notifications - Get notifications outside of Discord. |
-| In-app notifications - Get notifications within Discord. |
-| Tweak notification settings - Advanced notification settings are controlled by the system. |
+
+<table><tr><td markdown="1">
+
+![Android global notifications settings](images/android-global-10.4.1.png)
+
+</td><td markdown="1">
+
+```none
+System notifications
+Get notifications outside of Discord.
+
+In-app notifications
+Get notifications within Discord.
+
+Tweak notification settings
+Advanced notification settings are controlled by the system.
+```
+
+</td></tr></table>
 
 TODO: descriptions
 
 Tapping "Tweak notification settings" takes you to the Android notifications settings for the Discord app. You can also get here by long pressing the icon on your home screen or app list and tapping **App info** then tapping **Notifications**. Here's what it looks like in Android 10:
 
-| ![Android system notifications settings](images/android10-system-10.4.1.png) |
-| --- |
-| Show notifications |
-| Call |
-| Direct Messages |
-| Game Detection Service |
-| Voice |
-| Messages |
-| Friends |
-| Advanced -> Allow notification dot |
+<table><tr><td markdown="1">
+
+![Android system notifications settings](images/android10-system-10.4.1.png)
+
+</td><td markdown="1">
+
+```none
+Show notifications
+
+🔔 Call
+🔔 Direct Messages
+  Game Detection Service
+  Voice
+🔔 Messages
+  Friends
+
+Advanced
+Allow notification dot
+```
+
+</td></tr></table>
 
 TODO: descriptions
 
