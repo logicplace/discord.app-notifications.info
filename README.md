@@ -89,11 +89,11 @@ Number of notifications visible in the action cetner
 
 Priority of notifications in action center
 ⚪ Top
-  Show at the top of the action center
+   Show at the top of the action center
 ⚪ High
-  Show above normal priority notifications in action center
+   Show above normal priority notifications in action center
 🔘 Normal
-  Show below high priority notifications in action center
+   Show below high priority notifications in action center
 ```
 
 </td></tr></table>
@@ -146,10 +146,10 @@ Show notifications
 
 🔔 Call
 🔔 Direct Messages
-  Game Detection Service
-  Voice
+   Game Detection Service
+   Voice
 🔔 Messages
-  Friends
+   Friends
 
 Advanced
 Allow notification dot
