@@ -24,7 +24,7 @@ For desktop, you will see this:
 
 </td><td markdown="1">
 
-`NOTIFICATIONS
+<pre>NOTIFICATIONS
 
 Enable Desktop Notifications
 If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings.
@@ -33,7 +33,7 @@ Enable Unread Message Badge
 Shows a red badge on the app icon when you have unread messages.
 
 Enable Taskbar Flashing
-Flashes the app in your taskbar when you have new notifications.`
+Flashes the app in your taskbar when you have new notifications.</pre>
 
 </td></tr></table>
 
