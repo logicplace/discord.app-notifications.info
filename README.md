@@ -24,16 +24,16 @@ For desktop, you will see this:
 
 </td><td markdown="1">
 
-<pre>NOTIFICATIONS
+<tt>NOTIFICATIONS
 
-Enable Desktop Notifications
+Enable Desktop Notifications<br/>
 If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings.
 
-Enable Unread Message Badge
+Enable Unread Message Badge<br/>
 Shows a red badge on the app icon when you have unread messages.
 
-Enable Taskbar Flashing
-Flashes the app in your taskbar when you have new notifications.</pre>
+Enable Taskbar Flashing<br/>
+Flashes the app in your taskbar when you have new notifications.</tt>
 
 </td></tr></table>
 
@@ -73,26 +73,24 @@ In order to re-enable notifications later (or disable them in a more complex way
 
 </td><td markdown="1">
 
-```none
-Notifications
+<tt>Notifications<br/>
 Toggler On/Off
 
-☑ Show notification banners
-☐ Keep notifications private on the lock screen
-☑ Show notifications in action center
-☑ Play a sound when a notification arrives
+<span class="wrap-indent-3sp">☑ Show notification banners</span><br/>
+<span class="wrap-indent-3sp">☐ Keep notifications private on the lock screen</span><br/>
+<span class="wrap-indent-3sp">☑ Show notifications in action center</span><br/>
+<span class="wrap-indent-3sp">☑ Play a sound when a notification arrives</span><br/>
 
-Number of notifications visible in the action cetner
+Number of notifications visible in the action cetner<br/>
 3
 
-Priority of notifications in action center
-⚪ Top
-   Show at the top of the action center
-⚪ High
-   Show above normal priority notifications in action center
-🔘 Normal
-   Show below high priority notifications in action center
-```
+Priority of notifications in action center<br/>
+<span class="wrap-indent-3sp">⚪ Top<br/>
+   Show at the top of the action center</span><br/>
+<span class="wrap-indent-3sp">⚪ High<br/>
+   Show above normal priority notifications in action center</span><br/>
+<span class="wrap-indent-3sp">🔘 Normal<br/>
+   Show below high priority notifications in action center</span><br/></tt>
 
 </td></tr></table>
 
@@ -116,16 +114,14 @@ For Android, you will see this:
 
 </td><td markdown="1">
 
-```none
-System notifications
+<tt>System notifications<br/>
 Get notifications outside of Discord.
 
-In-app notifications
+In-app notifications<br/>
 Get notifications within Discord.
 
-Tweak notification settings
-Advanced notification settings are controlled by the system.
-```
+Tweak notification settings<br/>
+Advanced notification settings are controlled by the system.</tt>
 
 </td></tr></table>
 
